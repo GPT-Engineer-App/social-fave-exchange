@@ -1,9 +1,9 @@
 import React from 'react';
 
 const MessagingSystem = () => (
-  <div className="container mx-auto p-4">
-    <h1 className="text-4xl font-bold mb-4">Messaging System</h1>
-    <p className="text-lg">Communicate with service providers and seekers.</p>
+  <div className="container text-center">
+    <h1 className="text-5xl font-bold mb-6">Messaging System</h1>
+    <p className="text-xl">Communicate with service providers and seekers.</p>
   </div>
 );
 

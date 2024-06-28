@@ -27,9 +27,9 @@ const Register = () => {
   };
 
   return (
-    <div className="container mx-auto p-4">
-      <h1 className="text-4xl font-bold mb-4">Register</h1>
-      <form onSubmit={handleSignUp}>
+    <div className="container text-center">
+      <h1 className="text-5xl font-bold mb-6">Register</h1>
+      <form onSubmit={handleSignUp} className="mb-6">
         <div className="mb-4">
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="email">
             Email
