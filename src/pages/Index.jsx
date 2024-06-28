@@ -1,5 +1,5 @@
 import React from 'react';
-import heroImage from '../public/images/hero.jpg';
+import heroImage from '../../public/images/hero.jpg';
 
 const Index = () => (
   <div className="container text-center">
